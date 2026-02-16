@@ -1,0 +1,9 @@
+{
+  "Group": "com.example",
+  "Name": "ParkourIdle",
+  "Version": "1.0.0",
+  "Description": "A Hytale server mod",
+  "Authors": [{"Name": "Minecraft_CEO"}],
+  "Main": "com.example.parkouridle.ParkourIdlePlugin",
+  "LoadOrder": "POSTWORLD"
+}
